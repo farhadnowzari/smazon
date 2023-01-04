@@ -17,7 +17,7 @@ function AppBarComponent() {
               >
                 <CategorySelectorComponent />
                 <InputBase sx={{ mx: 1 }} fullWidth></InputBase>
-                <IconButton>
+                <IconButton color="primary">
                   <Search />
                 </IconButton>
               </Paper>
